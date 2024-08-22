@@ -1,0 +1,9 @@
+export './animated_align_screen.dart';
+export './animated_container_screen.dart';
+export './animated_textstyle_screen.dart';
+export './animated_opacity_screen.dart';
+export './animated_padding_screen.dart';
+export './animated_physical_screen.dart';
+export './animated_crossfade_screen.dart';
+export './animated_lottie_screen.dart';
+export './animated_flare_screen.dart';
